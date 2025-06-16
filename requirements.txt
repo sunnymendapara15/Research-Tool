@@ -10,9 +10,9 @@ sentence-transformers
 python-dotenv
 numpy
 pydantic
-PyYAM
+PyYAML
 requests
-torc
+torch
 scipy
 faiss-cpu
 transformers
