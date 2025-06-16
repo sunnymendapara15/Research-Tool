@@ -1,8 +1,8 @@
 streamlit==1.45.1
 langchain==0.3.25
 langchain-core==0.3.65
-langchain-groq==0.3.2
 langchain-community==0.3.23
+langchain-groq==0.3.2
 langchain-pinecone==0.2.8
 pinecone-client==7.0.2
 unstructured==0.17.2
@@ -14,3 +14,5 @@ PyYAML==6.0.2
 requests==2.32.4
 torch==2.7.0
 scipy==1.15.2
+faiss-cpu==1.11.0
+transformers==4.51.3
