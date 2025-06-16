@@ -4,7 +4,7 @@ langchain-core==0.3.65
 langchain-community==0.3.23
 langchain-groq==0.3.2
 langchain-pinecone==0.2.8
-pinecone-client==7.0.2
+pinecone==7.0.2
 unstructured==0.17.2
 sentence-transformers==4.1.0
 python-dotenv==1.0.0
